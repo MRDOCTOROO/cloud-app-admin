@@ -1,0 +1,1 @@
+function e(t){window.open(t)}function n(){const u=new Date().getHours();return u<9?"\u65E9\u4E0A\u597D":u<=11?"\u4E0A\u5348\u597D":u<=13?"\u4E2D\u5348\u597D":u<20?"\u4E0B\u5348\u597D":"\u665A\u4E0A\u597D"}export{e as o,n as t};
